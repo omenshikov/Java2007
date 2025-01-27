@@ -8,7 +8,6 @@
     <artifactId>Java2007</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
     <properties>
         <maven.compiler.source>1.23</maven.compiler.source>
         <maven.compiler.target>1.23</maven.compiler.target>
